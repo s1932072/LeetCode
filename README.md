@@ -1,1 +1,5 @@
 # LeetCode
+
+これは、私がLeetCodeでの学習を後から振り変えることが出来るように、GitHub上に公開を行いっているものです。
+
+LeetCodeのVscode拡張機能を利用しています。
